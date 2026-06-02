@@ -1,48 +1,27 @@
-<!-- BANNER IMAGE -->
-<p align="center">
-  <img src="https://novellum-filestore-mcp.s3.us-east-2.amazonaws.com/atxp:atxp_acct_5nqNC0dBJRg7QTDSMRZj5/8b28fcb7-6bb7-4cfd-a509-1325a92127c9.png" alt="Banner" width="100%"/>
-</p>
+# 💫 About Me:
+Hi 👋 I’m Bijaya Kumar Jena<br>I’m a software developer transitioning into DevOps & Cloud Engineering.<br>I focus on learning DevOps through hands-on practice, real servers, and daily GitHub updates.<br><br>👨‍💻 About Me<br>I come from a development background and I’m now building strong fundamentals in Linux, Cloud, and DevOps tools.<br><br>I believe DevOps is not about tools only, but about systems, automation, and reliability. That’s why I practice everything on real environments like AWS EC2 and document my learning.<br><br>🛠 DevOps Skills (Actively Practicing)<br>Linux (users, groups, permissions, networking)<br>Git & GitHub<br>AWS (EC2, Security Groups, SSH, SCP)<br>Shell Scripting (basics)<br>Docker (learning stage)<br>CI/CD (GitHub Actions – upcoming)<br>📂 My DevOps Learning Repositories<br>🐧 devops-linux – Linux commands & server practice<br>☁️ devops-aws – EC2, SSH, SCP, quotas, networking<br>🐳 devops-docker – container basics & hands-on labs<br>🔄 devops-ci-cd – CI/CD pipelines (learning)<br>📈 How I Learn<br>Practice daily on Linux & AWS<br>Push progress to GitHub consistently<br>Focus on understanding instead of shortcuts<br>Learn by breaking and fixing systems<br>🎯 Goal<br>To work as a DevOps Engineer, contributing to scalable, secure, and reliable systems, while continuously improving my cloud and automation skills.<br><br>
 
-<h1 align="center">👋 Hi, I'm Bijaya</h1>
-<h3 align="center">🚀 Software Development Engineer (SDE-I) | ⚙️ DevOps Engineer | ☁️ Cloud Enthusiast</h3>
 
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://github.com/Bijaya-423"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
-  <a href="YOUR_RESUME_LINK"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/></a>
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nkedin.com/in/bijayakumarjena) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bijayakumarjena1507@gmail.com) 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bijaya-423&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Bijaya-423?label=Followers&style=flat-square&color=blue" alt="Followers"/>
-</p>
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Bijaya-423&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Bijaya-423&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bijaya-423&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Bijaya-423&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Bijaya-423&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Bijaya-423&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🎯 About Me
-
-```python
-class Bijaya:
-    def __init__(self):
-        self.name = "Bijaya"
-        self.role = "SDE-I | DevOps Engineer"
-        self.location = "India 🇮🇳"
-        self.available_for = ["Full-time SDE-I", "DevOps Roles", "Backend Engineering"]
-        self.currently_learning = ["System Design", "Kubernetes Advanced", "Microservices"]
-
-    def get_skills(self):
-        return {
-            "Backend":    ["Python", "Java", "Node.js", "Go", "REST APIs", "GraphQL"],
-            "DevOps":     ["Docker", "Kubernetes", "Terraform", "Ansible", "Jenkins", "GitHub Actions"],
-            "Cloud":      ["AWS", "Azure", "GCP"],
-            "Databases":  ["PostgreSQL", "MySQL", "MongoDB", "Redis"],
-            "OS":         ["Linux (Ubuntu, CentOS, RHEL)", "Windows Server"],
-            "Monitoring": ["Prometheus", "Grafana", "ELK Stack", "Datadog"],
-        }
-
-    def hire_me(self):
-        return "Open to SDE-I & DevOps opportunities! Let's connect 🚀"
-
-me = Bijaya()
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
