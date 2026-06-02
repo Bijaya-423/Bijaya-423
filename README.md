@@ -1,27 +1,167 @@
-# 💫 About Me:
-Hi 👋 I’m Bijaya Kumar Jena<br>I’m a software developer transitioning into DevOps & Cloud Engineering.<br>I focus on learning DevOps through hands-on practice, real servers, and daily GitHub updates.<br><br>👨‍💻 About Me<br>I come from a development background and I’m now building strong fundamentals in Linux, Cloud, and DevOps tools.<br><br>I believe DevOps is not about tools only, but about systems, automation, and reliability. That’s why I practice everything on real environments like AWS EC2 and document my learning.<br><br>🛠 DevOps Skills (Actively Practicing)<br>Linux (users, groups, permissions, networking)<br>Git & GitHub<br>AWS (EC2, Security Groups, SSH, SCP)<br>Shell Scripting (basics)<br>Docker (learning stage)<br>CI/CD (GitHub Actions – upcoming)<br>📂 My DevOps Learning Repositories<br>🐧 devops-linux – Linux commands & server practice<br>☁️ devops-aws – EC2, SSH, SCP, quotas, networking<br>🐳 devops-docker – container basics & hands-on labs<br>🔄 devops-ci-cd – CI/CD pipelines (learning)<br>📈 How I Learn<br>Practice daily on Linux & AWS<br>Push progress to GitHub consistently<br>Focus on understanding instead of shortcuts<br>Learn by breaking and fixing systems<br>🎯 Goal<br>To work as a DevOps Engineer, contributing to scalable, secure, and reliable systems, while continuously improving my cloud and automation skills.<br><br>
+<div align="center">
 
+# 👋 Bijaya Kumar Jena
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nkedin.com/in/bijayakumarjena) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bijayakumarjena1507@gmail.com) 
+### Python Backend Developer → DevOps Engineer
+**Building Production Systems · Automating Infrastructure · Shipping to AWS**
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Bijaya-423&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Bijaya-423&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bijaya-423&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-bijayakumarjena-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bijayakumarjena)
+[![Portfolio](https://img.shields.io/badge/Portfolio-bijayakumarjena.netlify.app-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://bijayakumarjena.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-bijayakumarjena1507@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bijayakumarjena1507@gmail.com)
+[![Location](https://img.shields.io/badge/Location-Bhubaneswar%2C%20India-34A853?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Bhubaneswar)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Bijaya-423&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Bijaya-423&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Bijaya-423&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧑‍💻 About Me
+
+I'm a **Python Backend Developer** at **Visital Technologies Pvt. Ltd.** (Bhubaneswar) with **1+ year of production experience**, actively transitioning into **DevOps & Cloud Engineering**.
+
+I build real-world systems — multi-tenant ERP platforms, serverless APIs, and CI/CD pipelines — and ship them to AWS using Docker, Jenkins, and Lambda. I don't just learn tools in isolation; I apply them to production-grade projects.
+
+```text
+🏢  Company      →  Visital Technologies Pvt. Ltd., Bhubaneswar
+💼  Role         →  Python Developer (Backend + DevOps)
+🎯  Target       →  SDE-I | DevOps Engineer | Cloud Engineer
+📦  Deployment   →  AWS Lambda · ECR · RDS · API Gateway
+🏗️  Currently    →  AWS Certification Prep + OAuth 2.0 / Keycloak
+```
+
+---
+
+## 🚀 Featured Projects
+
+### 🏥 IFAHMS — Integrated Facility & Hospitality Management System
+> **Multi-tenant ERP platform deployed on AWS serverless infrastructure**
+
+| Layer | Tech Used |
+|-------|-----------|
+| **Backend** | FastAPI, Python, SQLAlchemy, Pydantic |
+| **Database** | AWS RDS MySQL (multi-tenant schema) |
+| **Containerization** | Docker (linux/amd64, Lambda-compatible images) |
+| **Registry** | Amazon ECR (us-east-2) |
+| **Compute** | AWS Lambda via Mangum (ASGI adapter) |
+| **API Layer** | Amazon API Gateway v2 (HTTP) |
+| **CI/CD** | Jenkins on EC2 (5-stage pipeline, Jenkinsfile) |
+| **Infra Challenges** | Platform flags, UTF-8 BOM fix, swap memory, vCPU limits |
+
+**Key engineering decisions:** Container images built with `--platform linux/amd64 --provenance=false` for Lambda compatibility. Jenkins pipeline automates build → ECR push → Lambda deploy with rollback capability.
+
+---
+
+### 🏨 LuxeStay Pro — Hotel & Restaurant Management System
+> **Full-stack application with production DevOps setup**
+
+[![GitHub](https://img.shields.io/badge/App_Repo-Bijaya--423/Luxestay--pro-181717?style=flat&logo=github)](https://github.com/Bijaya-423/Luxestay-pro)
+[![GitHub](https://img.shields.io/badge/DevOps_Repo-luxestay--pro--devops-181717?style=flat&logo=github)](https://github.com/Bijaya-423/luxestay-pro-devops)
+
+| Layer | Tech Used |
+|-------|-----------|
+| **Backend** | FastAPI, Python |
+| **Infrastructure** | 3× AWS EC2 t2.micro (Jenkins · App · Monitor) |
+| **CI/CD** | Jenkins, Jenkinsfile |
+| **Containerization** | Docker, docker-compose |
+| **Observability** | Prometheus + Grafana dashboards |
+| **Reverse Proxy** | Nginx |
+| **Features** | Room bookings, check-in/out, food orders, payroll, inventory |
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend Development
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=python&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS RDS](https://img.shields.io/badge/AWS_RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Cloud & Infrastructure (AWS)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
+![Amazon ECR](https://img.shields.io/badge/Amazon_ECR-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![API Gateway](https://img.shields.io/badge/API_Gateway-FF4F8B?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
+![S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
+![IAM](https://img.shields.io/badge/AWS_IAM-DD344C?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### DevOps & CI/CD
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Shell](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### Observability & Monitoring
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+### Learning / Upcoming
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white)
+![AWS Cognito](https://img.shields.io/badge/AWS_Cognito-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![Bijaya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bijaya-423&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Bijaya-423&theme=dark&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bijaya-423&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+</div>
+
+---
+
+## 🎯 What I'm Working Toward
+
+```yaml
+Short Term:
+  - AWS Solutions Architect Associate (certification)
+  - OAuth 2.0 integration in FastAPI (Keycloak / Cognito)
+  - Multi-tenant role-based access control (RBAC)
+
+Medium Term:
+  - Kubernetes cluster management (EKS)
+  - Infrastructure as Code with Terraform
+  - Full DevOps role in product companies
+
+Mindset:
+  - Learn by shipping to real environments
+  - Break things, fix things, document everything
+  - Every project gets a CI/CD pipeline
+```
+
+---
+
+## 💼 Open to Opportunities
+
+I'm actively looking for roles as:
+
+- 🐍 **Python Backend Developer (SDE-I)** — FastAPI, REST APIs, microservices
+- ☁️ **DevOps Engineer** — AWS, Docker, CI/CD, infra automation
+- 🔀 **Backend + DevOps (hybrid)** — full ownership from code to deploy
+
+📬 Reach me: [bijayakumarjena1507@gmail.com](mailto:bijayakumarjena1507@gmail.com) · [LinkedIn](https://linkedin.com/in/bijayakumarjena) · [Portfolio](https://bijayakumarjena.netlify.app/)
+
+---
+
+<div align="center">
+
+![Profile Views](https://visitcount.itsvg.in/api?id=Bijaya-423&icon=0&color=0)
+
+*"DevOps is not about tools — it's about systems, automation, and reliability."*
+
+</div>
