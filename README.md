@@ -30,44 +30,6 @@ I build real-world systems — multi-tenant ERP platforms, serverless APIs, and 
 
 ---
 
-## 🚀 Featured Projects
-
-### 🏥 IFAHMS — Integrated Facility & Hospitality Management System
-> **Multi-tenant ERP platform deployed on AWS serverless infrastructure**
-
-| Layer | Tech Used |
-|-------|-----------|
-| **Backend** | FastAPI, Python, SQLAlchemy, Pydantic |
-| **Database** | AWS RDS MySQL (multi-tenant schema) |
-| **Containerization** | Docker (linux/amd64, Lambda-compatible images) |
-| **Registry** | Amazon ECR (us-east-2) |
-| **Compute** | AWS Lambda via Mangum (ASGI adapter) |
-| **API Layer** | Amazon API Gateway v2 (HTTP) |
-| **CI/CD** | Jenkins on EC2 (5-stage pipeline, Jenkinsfile) |
-| **Infra Challenges** | Platform flags, UTF-8 BOM fix, swap memory, vCPU limits |
-
-**Key engineering decisions:** Container images built with `--platform linux/amd64 --provenance=false` for Lambda compatibility. Jenkins pipeline automates build → ECR push → Lambda deploy with rollback capability.
-
----
-
-### 🏨 LuxeStay Pro — Hotel & Restaurant Management System
-> **Full-stack application with production DevOps setup**
-
-[![GitHub](https://img.shields.io/badge/App_Repo-Bijaya--423/Luxestay--pro-181717?style=flat&logo=github)](https://github.com/Bijaya-423/Luxestay-pro)
-[![GitHub](https://img.shields.io/badge/DevOps_Repo-luxestay--pro--devops-181717?style=flat&logo=github)](https://github.com/Bijaya-423/luxestay-pro-devops)
-
-| Layer | Tech Used |
-|-------|-----------|
-| **Backend** | FastAPI, Python |
-| **Infrastructure** | 3× AWS EC2 t2.micro (Jenkins · App · Monitor) |
-| **CI/CD** | Jenkins, Jenkinsfile |
-| **Containerization** | Docker, docker-compose |
-| **Observability** | Prometheus + Grafana dashboards |
-| **Reverse Proxy** | Nginx |
-| **Features** | Room bookings, check-in/out, food orders, payroll, inventory |
-
----
-
 ## 🛠️ Tech Stack
 
 ### Backend Development
