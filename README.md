@@ -21,11 +21,11 @@ I'm a **Python Backend Developer** at **Visital Technologies Pvt. Ltd.** (Bhuban
 I build real-world systems — multi-tenant ERP platforms, serverless APIs, and CI/CD pipelines — and ship them to AWS using Docker, Jenkins, and Lambda. I don't just learn tools in isolation; I apply them to production-grade projects.
 
 ```text
-🏢  Company      →  Visital Technologies Pvt. Ltd., Bhubaneswar
-💼  Role         →  Python Developer (Backend + DevOps)
-🎯  Target       →  SDE-I | DevOps Engineer | Cloud Engineer
+🏢  Company      →  Seereon consulting & it services pvt ltd., Bhubaneswar
+💼  Role         →  SDE-I (Backend)
+🎯  Target       →  SDE-II | DevOps Engineer | Cloud Engineer
 📦  Deployment   →  AWS Lambda · ECR · RDS · API Gateway
-🏗️  Currently    →  AWS Certification Prep + OAuth 2.0 / Keycloak
+🏗️  Currently    →  Currently Preparing For DevOps by Building Hands-on projects with linux, Docker, Kubernetes, Terraform, GitHub Actions, AWS, Ansible, 
 ```
 
 ---
