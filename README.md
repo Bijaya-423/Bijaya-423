@@ -2,7 +2,7 @@
 
 # 👋 Bijaya Kumar Jena
 
-### Python Backend Developer → DevOps Engineer
+### Backend Developer → DevOps Engineer
 **Building Production Systems · Automating Infrastructure · Shipping to AWS**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-bijayakumarjena-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bijayakumarjena)
