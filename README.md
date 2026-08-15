@@ -16,7 +16,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Python Backend Developer** at **Visital Technologies Pvt. Ltd.** (Bhubaneswar) with **1+ year of production experience**, actively transitioning into **DevOps & Cloud Engineering**.
+I'm a **Software Developer** at **seereon consulting & it services Pvt. Ltd.** (Bhubaneswar) with **1.6+ year of production experience**, actively transitioning into **DevOps & Cloud Engineering**.
 
 I build real-world systems — multi-tenant ERP platforms, serverless APIs, and CI/CD pipelines — and ship them to AWS using Docker, Jenkins, and Lambda. I don't just learn tools in isolation; I apply them to production-grade projects.
 
