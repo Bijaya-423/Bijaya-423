@@ -74,36 +74,15 @@ I build real-world systems — multi-tenant ERP platforms, serverless APIs, and 
 ---
 
 ## 📊 GitHub Stats
-
 <div align="center">
 
-<!-- GitHub Stats -->
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Bijaya-423&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
-  alt="Bijaya's GitHub Stats"
-  width="100%"
-/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Bijaya-423&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Bijaya's GitHub Stats" />
 
-<br/>
+<img src="https://streak-stats.demolab.com?user=Bijaya-423&theme=tokyonight&hide_border=true" alt="Bijaya's GitHub Streak" />
 
-<!-- GitHub Streak -->
-<img
-  src="https://streak-stats.demolab.com?user=Bijaya-423&theme=tokyonight&hide_border=true"
-  alt="Bijaya's GitHub Streak"
-  width="100%"
-/>
-
-<br/>
-
-<!-- Top Languages -->
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bijaya-423&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"
-  alt="Bijaya's Top Languages"
-  width="100%"
-/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Bijaya-423&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Bijaya's Top Languages" />
 
 </div>
-
 ---
 
 ## 🎯 What I'm Working Toward
