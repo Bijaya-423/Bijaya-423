@@ -104,21 +104,24 @@ Mindset:
 ---
 
 ## 💼 Open to Opportunities
+I'm actively looking for opportunities as:
 
-I'm actively looking for roles as:
+🐍 Python Backend Developer (SDE-I) — FastAPI, REST APIs, Microservices
+☁️ DevOps Engineer — AWS, Docker, CI/CD, Infrastructure Automation
+🔀 Backend + DevOps Engineer — End-to-end ownership from development to deployment
+📬 Let's Connect
 
-- 🐍 **Python Backend Developer (SDE-I)** — FastAPI, REST APIs, microservices
-- ☁️ **DevOps Engineer** — AWS, Docker, CI/CD, infra automation
-- 🔀 **Backend + DevOps (hybrid)** — full ownership from code to deploy
-
-📬 Reach me: [bijayakumarjena1507@gmail.com](mailto:bijayakumarjena1507@gmail.com) · [LinkedIn](https://linkedin.com/in/bijayakumarjena) · [Portfolio](https://bijayakumarjena.netlify.app/)
-
----
+Email: bijayakumarjena1507@gmail.com
+LinkedIn: linkedin.com/in/bijayakumarjena
+Portfolio: bijayakumarjena.netlify.app
 
 <div align="center">
 
-![Profile Views](https://visitcount.itsvg.in/api?id=Bijaya-423&icon=0&color=0)
 
-*"DevOps is not about tools — it's about systems, automation, and reliability."*
+
+
+<br>
+
+"DevOps is not about tools — it's about systems, automation, and reliability."
 
 </div>
