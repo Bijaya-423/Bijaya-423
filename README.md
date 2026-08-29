@@ -73,24 +73,21 @@ I build real-world systems — multi-tenant ERP platforms, serverless APIs, and 
 
 ---
 
-## 📈 GitHub Stats
+
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-![Bijaya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bijaya-423&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+<img src="https://github-readme-stats.vercel.app/api?username=Bijaya-423&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49%" />
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Bijaya-423&theme=dark&hide_border=false)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bijaya-423&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bijaya-423&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bijaya-423&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" width="50%" />
 
 </div>
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-
-</p>
-
 
 ---
 
