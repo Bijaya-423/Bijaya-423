@@ -85,16 +85,6 @@ I build real-world systems — multi-tenant ERP platforms, serverless APIs, and 
 
 </div>
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Bijaya-423&theme=dark&hide_border=false&show_icons=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bijaya-423&theme=dark&hide_border=false&layout=compact" width="48%" />
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Bijaya-423&theme=dark&hide_border=false)
-
-</div>
 
 ---
 
