@@ -85,6 +85,12 @@ I build real-world systems — multi-tenant ERP platforms, serverless APIs, and 
 
 </div>
 
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+
+</p>
+
 
 ---
 
