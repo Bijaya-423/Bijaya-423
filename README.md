@@ -112,8 +112,8 @@ I'm actively looking for opportunities as:
 📬 Let's Connect
 
 Email: bijayakumarjena1507@gmail.com
-LinkedIn: linkedin.com/in/bijayakumarjena
-Portfolio: bijayakumarjena.netlify.app
+LinkedIn: https://linkedin.com/in/bijayakumarjena
+Portfolio: https://bijayakumarjena.netlify.app
 
 <div align="center">
 
