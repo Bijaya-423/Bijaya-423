@@ -104,24 +104,44 @@ Mindset:
 ---
 
 ## 💼 Open to Opportunities
-I'm actively looking for opportunities as:
-
-🐍 Python Backend Developer (SDE-I) — FastAPI, REST APIs, Microservices
-☁️ DevOps Engineer — AWS, Docker, CI/CD, Infrastructure Automation
-🔀 Backend + DevOps Engineer — End-to-end ownership from development to deployment
-📬 Let's Connect
-
-Email: bijayakumarjena1507@gmail.com
-LinkedIn: https://linkedin.com/in/bijayakumarjena
-Portfolio: https://bijayakumarjena.netlify.app
-
 <div align="center">
 
+<h3>🚀 I'm Actively Looking for Opportunities</h3>
 
+<table>
+<tr>
+<td align="center" width="33%">
 
+🐍<br> <strong>Python Backend Developer</strong><br> <sub>SDE-I · FastAPI · REST APIs · Microservices</sub>
 
-<br>
+</td>
 
-"DevOps is not about tools — it's about systems, automation, and reliability."
+<td align="center" width="33%">
+
+☁️<br> <strong>DevOps Engineer</strong><br> <sub>AWS · Docker · CI/CD · Infrastructure Automation</sub>
+
+</td>
+
+<td align="center" width="33%">
+
+🔀<br> <strong>Backend + DevOps Engineer</strong><br> <sub>Development → Deployment → Production</sub>
+
+</td>
+</tr>
+</table>
+
+<h3>📬 Let's Connect</h3>
+
+<a href="mailto:bijayakumarjena1507@gmail.com">
+  <img src="https://img.shields.io/badge/Email-bijayakumarjena1507%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="https://linkedin.com/in/bijayakumarjena">
+  <img src="https://img.shields.io/badge/LinkedIn-Bijaya%20Kumar%20Jena-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://bijayakumarjena.netlify.app">
+  <img src="https://img.shields.io/badge/Portfolio-bijayakumarjena.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
+</a>
 
 </div>
