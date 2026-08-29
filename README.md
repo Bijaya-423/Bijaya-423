@@ -16,6 +16,10 @@
 
 ## 🧑‍💻 About Me
 
+<table>
+<tr>
+<td width="65%" valign="top">
+
 I'm a **Software Developer** at **seereon consulting & it services Pvt. Ltd.** (Bhubaneswar) with **1.6+ year of production experience**, actively transitioning into **DevOps & Cloud Engineering**.
 
 I build real-world systems — multi-tenant ERP platforms, serverless APIs, and CI/CD pipelines — and ship them to AWS using Docker, Jenkins, and Lambda. I don't just learn tools in isolation; I apply them to production-grade projects.
@@ -25,8 +29,29 @@ I build real-world systems — multi-tenant ERP platforms, serverless APIs, and 
 💼  Role         →  SDE-I (Backend)
 🎯  Target       →  SDE-II | DevOps Engineer | Cloud Engineer
 📦  Deployment   →  AWS Lambda · ECR · RDS · API Gateway
-🏗️  Currently    →  Currently Preparing For DevOps by Building Hands-on projects with linux, Docker, Kubernetes, Terraform, GitHub Actions, AWS, Ansible, 
+🏗️  Currently    →  Preparing for DevOps through hands-on projects
+                     Linux · Docker · Kubernetes · Terraform
+                     GitHub Actions · AWS · Ansible
 ```
+
+</td>
+
+<td width="35%" align="center" valign="middle">
+
+<img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif"
+  width="320"
+  alt="Developer Coding Animation" />
+
+<br>
+
+<strong>⚙️ Code • Build • Deploy • Automate</strong>
+
+</td>
+</tr>
+</table>
+
+---
+
 
 ---
 
