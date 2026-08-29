@@ -78,8 +78,6 @@ I build real-world systems — multi-tenant ERP platforms, serverless APIs, and 
 
 <img src="https://github-readme-stats-fast.vercel.app/api?username=Bijaya-423&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Bijaya's GitHub Stats" />
 
-🔥 GitHub Streak
-
 <p align="center"> <img src="https://streak-stats.demolab.com/?user=Bijaya-423&theme=tokyonight&hide_border=true" alt="Bijaya's GitHub Streak" /> </p>
 
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Bijaya-423&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Bijaya's Top Languages" />
