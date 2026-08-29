@@ -1,29 +1,14 @@
 <div align="center">
 
-<table>
-<tr>
-<td width="65%">
-
-<a href="https://linkedin.com/in/bijayakumarjena">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=800&color=00D9FF&center=false&vCenter=true&width=500&lines=Hi%2C+I'm+Bijaya+Kumar+Jena;Backend+Developer;DevOps+Engineer;AWS+%7C+Docker+%7C+CI%2FCD" alt="Typing SVG" />
-</a>
+# 👋 Bijaya Kumar Jena
 
 ### Backend Developer → DevOps Engineer
 **Building Production Systems · Automating Infrastructure · Shipping to AWS**
-
-</td>
-<td width="35%">
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif" width="100%">
-</td>
-</tr>
-</table>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-bijayakumarjena-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bijayakumarjena)
 [![Portfolio](https://img.shields.io/badge/Portfolio-bijayakumarjena.netlify.app-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://bijayakumarjena.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-bijayakumarjena1507@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bijayakumarjena1507@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Bhubaneswar%2C%20India-34A853?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Bhubaneswar)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Bijaya-423&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
 </div>
 
@@ -31,16 +16,16 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Software Developer** at **Seereon Consulting & IT Services Pvt. Ltd.** (Bhubaneswar) with **1.6+ years of production experience**, actively transitioning into **DevOps & Cloud Engineering**.
+I'm a **Software Developer** at **seereon consulting & it services Pvt. Ltd.** (Bhubaneswar) with **1.6+ year of production experience**, actively transitioning into **DevOps & Cloud Engineering**.
 
 I build real-world systems — multi-tenant ERP platforms, serverless APIs, and CI/CD pipelines — and ship them to AWS using Docker, Jenkins, and Lambda. I don't just learn tools in isolation; I apply them to production-grade projects.
 
 ```text
-🏢  Company      →  Seereon Consulting & IT Services Pvt. Ltd., Bhubaneswar
+🏢  Company      →  Seereon consulting & it services pvt ltd., Bhubaneswar
 💼  Role         →  SDE-I (Backend)
 🎯  Target       →  SDE-II | DevOps Engineer | Cloud Engineer
 📦  Deployment   →  AWS Lambda · ECR · RDS · API Gateway
-🏗️  Currently    →  Preparing for DevOps — hands-on with Linux, Docker, Kubernetes, Terraform, GitHub Actions, AWS, Ansible
+🏗️  Currently    →  Currently Preparing For DevOps by Building Hands-on projects with linux, Docker, Kubernetes, Terraform, GitHub Actions, AWS, Ansible, 
 ```
 
 ---
@@ -92,12 +77,11 @@ I build real-world systems — multi-tenant ERP platforms, serverless APIs, and 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Bijaya-423&theme=dark&hide_border=false&include_all_commits=false&count_private=false&show_icons=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bijaya-423&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="48%" />
+![Bijaya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bijaya-423&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Bijaya-423&theme=dark&hide_border=false)
 
-![Bijaya's GitHub trophies](https://github-profile-trophy.vercel.app/?username=Bijaya-423&theme=darkhub&no-frame=true&row=1&column=6)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bijaya-423&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
@@ -137,6 +121,8 @@ I'm actively looking for roles as:
 ---
 
 <div align="center">
+
+![Profile Views](https://visitcount.itsvg.in/api?id=Bijaya-423&icon=0&color=0)
 
 *"DevOps is not about tools — it's about systems, automation, and reliability."*
 
