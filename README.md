@@ -71,19 +71,16 @@ I build real-world systems — multi-tenant ERP platforms, serverless APIs, and 
 ![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white)
 ![AWS Cognito](https://img.shields.io/badge/AWS_Cognito-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
----
-
 ## 📊 GitHub Stats
 <div align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=Bijaya-423&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Bijaya's GitHub Stats" />
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=Bijaya-423&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Bijaya's GitHub Stats" />
 
-<p align="center"> <img src="https://streak-stats.demolab.com/?user=Bijaya-423&theme=tokyonight&hide_border=true" alt="Bijaya's GitHub Streak" /> </p>
+<img height="180em" src="https://streak-stats.demolab.com/?user=Bijaya-423&theme=tokyonight&hide_border=true" alt="Bijaya's GitHub Streak" />
 
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Bijaya-423&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Bijaya's Top Languages" />
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Bijaya-423&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Bijaya's Top Languages" />
 
 </div>
----
 
 ## 🎯 What I'm Working Toward
 
