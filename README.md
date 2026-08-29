@@ -111,3 +111,17 @@ I build real-world backend systems and I'm actively expanding my expertise into 
 🏗️ IaC           → Terraform | Ansible
 📊 Monitoring    → Prometheus | Grafana
 🔐 Security      → IAM | RBAC | OAuth2 | Keycloak | Cognito
+
+
+
+Cognito
+🛠️ Tools I Use
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,docker,kubernetes,aws,terraform,ansible,jenkins,githubactions,linux,nginx,prometheus,grafana,mysql,mongodb,git,github,bash&perline=9" width="900" alt="Technology Tools" />
+
+</div> <br> <div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,docker,kubernetes,aws,terraform,ansible,jenkins,githubactions,linux,nginx,prometheus,grafana,mysql,mongodb,git,github,bash&theme=dark&perline=9" width="900" alt="DevOps Technology Stack" />
+
+</div>
