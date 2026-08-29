@@ -1,130 +1,113 @@
 <div align="center">
 
-# 👋 Bijaya Kumar Jena
+<!-- ========================================================= -->
+<!--                       HERO SECTION                         -->
+<!-- ========================================================= -->
 
-### Backend Developer → DevOps Engineer
-**Building Production Systems · Automating Infrastructure · Shipping to AWS**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=850&lines=Bijaya+Kumar+Jena" alt="Bijaya Kumar Jena" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-bijayakumarjena-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bijayakumarjena)
-[![Portfolio](https://img.shields.io/badge/Portfolio-bijayakumarjena.netlify.app-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://bijayakumarjena.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-bijayakumarjena1507@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bijayakumarjena1507@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Bhubaneswar%2C%20India-34A853?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Bhubaneswar)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=900&color=7CFF6B&center=true&vCenter=true&width=850&lines=Backend+Developer;DevOps+Engineer;Cloud+Engineer" alt="Designation" />
+
+<p>
+  <b>Building Production Systems · Automating Infrastructure · Shipping to AWS</b>
+</p>
+
+<br>
+
+<!-- Developer Animation -->
+
+<img
+  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+  width="500"
+  alt="Developer Coding Animation"
+/>
+
+<br><br>
+
+<!-- ========================================================= -->
+<!--                     SOCIAL LINKS                          -->
+<!-- ========================================================= -->
+
+<a href="https://linkedin.com/in/bijayakumarjena">
+<img src="https://img.shields.io/badge/LINKEDIN-BIJAYAKUMARJENA-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://bijayakumarjena.netlify.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-BIJAYAKUMARJENA.NETLIFY.APP-FF5722?style=for-the-badge&logo=firefox&logoColor=white" />
+</a>
+
+<a href="mailto:bijayakumarjena1507@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-BIJAYAKUMARJENA1507%40GMAIL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/Bijaya-423">
+<img src="https://img.shields.io/badge/GITHUB-BIJAYA--423-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Bijaya-423&label=PROFILE%20VIEWS&color=00F7FF&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+# 👋 About Me
 
-I'm a **Software Developer** at **seereon consulting & it services Pvt. Ltd.** (Bhubaneswar) with **1.6+ year of production experience**, actively transitioning into **DevOps & Cloud Engineering**.
+<div align="center">
 
-I build real-world systems — multi-tenant ERP platforms, serverless APIs, and CI/CD pipelines — and ship them to AWS using Docker, Jenkins, and Lambda. I don't just learn tools in isolation; I apply them to production-grade projects.
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Software+Developer;Backend+Engineer;DevOps+%26+Cloud+Enthusiast;AWS+%7C+Docker+%7C+Kubernetes"
+  alt="About Me Animation"
+/>
+
+</div>
+
+<br>
+
+<img
+  align="right"
+  width="380"
+  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N5M3F6a2Y2b3h6Y3h6dWZ6a2J0cW9xM2V5YjR4NnJ6cHh5dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7qE1YN7aBOFPRw8E/giphy.gif"
+  alt="Developer Animation"
+/>
+
+I'm **Bijaya Kumar Jena**, a **Backend Developer transitioning into DevOps & Cloud Engineering**.
+
+I currently work as an **SDE-I (Backend)** at **Seereon Consulting & IT Services Pvt. Ltd., Bhubaneswar**, with **1.6+ years of production experience**.
+
+I build real-world backend systems and I'm actively expanding my expertise into **cloud infrastructure, Kubernetes, automation, CI/CD and observability**.
+
+### 💻 What I Work With
+
+- 🐍 **Python & FastAPI**
+- ⚡ **REST APIs & Microservices**
+- 🗄️ **MySQL, AWS RDS & MongoDB**
+- ☁️ **AWS Cloud**
+- 🐳 **Docker & Containerization**
+- 🔄 **Jenkins & GitHub Actions**
+- ☸️ **Kubernetes & Amazon EKS**
+- 🏗️ **Terraform & Infrastructure as Code**
+- 🔧 **Ansible**
+- 🐧 **Linux & Shell Scripting**
+- 📊 **Prometheus & Grafana**
+- 🔐 **IAM, RBAC & Authentication**
+
+<br clear="right"/>
+
+---
+
+## 🏢 Professional Snapshot
 
 ```text
-🏢  Company      →  Seereon consulting & it services pvt ltd., Bhubaneswar
-💼  Role         →  SDE-I (Backend)
-🎯  Target       →  SDE-II | DevOps Engineer | Cloud Engineer
-📦  Deployment   →  AWS Lambda · ECR · RDS · API Gateway
-🏗️  Currently    →  Currently Preparing For DevOps by Building Hands-on projects with linux, Docker, Kubernetes, Terraform, GitHub Actions, AWS, Ansible, 
-```
-
----
-
-## 🛠️ Tech Stack
-
-### Backend Development
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=python&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS RDS](https://img.shields.io/badge/AWS_RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Cloud & Infrastructure (AWS)
-![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
-![Amazon ECR](https://img.shields.io/badge/Amazon_ECR-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![API Gateway](https://img.shields.io/badge/API_Gateway-FF4F8B?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
-![S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
-![IAM](https://img.shields.io/badge/AWS_IAM-DD344C?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-### DevOps & CI/CD
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Shell](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-### Observability & Monitoring
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-
-### Learning / Upcoming
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white)
-![AWS Cognito](https://img.shields.io/badge/AWS_Cognito-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Bijaya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bijaya-423&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Bijaya-423&theme=dark&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bijaya-423&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-</div>
-
-
----
-
-## 🎯 What I'm Working Toward
-
-```yaml
-Short Term:
-  - AWS Solutions Architect Associate (certification)
-  - OAuth 2.0 integration in FastAPI (Keycloak / Cognito)
-  - Multi-tenant role-based access control (RBAC)
-
-Medium Term:
-  - Kubernetes cluster management (EKS)
-  - Infrastructure as Code with Terraform
-  - Full DevOps role in product companies
-
-Mindset:
-  - Learn by shipping to real environments
-  - Break things, fix things, document everything
-  - Every project gets a CI/CD pipeline
-```
-
----
-
-## 💼 Open to Opportunities
-
-I'm actively looking for roles as:
-
-- 🐍 **Python Backend Developer (SDE-I)** — FastAPI, REST APIs, microservices
-- ☁️ **DevOps Engineer** — AWS, Docker, CI/CD, infra automation
-- 🔀 **Backend + DevOps (hybrid)** — full ownership from code to deploy
-
-📬 Reach me: [bijayakumarjena1507@gmail.com](mailto:bijayakumarjena1507@gmail.com) · [LinkedIn](https://linkedin.com/in/bijayakumarjena) · [Portfolio](https://bijayakumarjena.netlify.app/)
-
----
-
-<div align="center">
-
-![Profile Views](https://visitcount.itsvg.in/api?id=Bijaya-423&icon=0&color=0)
-
-*"DevOps is not about tools — it's about systems, automation, and reliability."*
-
-</div>
+🏢 Company       → Seereon Consulting & IT Services Pvt. Ltd.
+📍 Location      → Bhubaneswar, India
+💼 Current Role  → SDE-I (Backend)
+🎯 Target        → SDE-II | DevOps Engineer | Cloud Engineer
+🐍 Backend       → Python | FastAPI | SQLAlchemy | REST APIs
+☁️ Cloud         → AWS | Lambda | ECR | RDS | EC2 | S3 | API Gateway
+🐳 DevOps        → Docker | Jenkins | GitHub Actions
+☸️ Kubernetes    → Kubernetes | Amazon EKS | Helm | Argo CD
+🏗️ IaC           → Terraform | Ansible
+📊 Monitoring    → Prometheus | Grafana
+🔐 Security      → IAM | RBAC | OAuth2 | Keycloak | Cognito
