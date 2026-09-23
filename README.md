@@ -28,11 +28,10 @@ I build real-world systems — multi-tenant ERP platforms, serverless APIs, and 
 
 ```text
 🏢  Company      →  Seereon consulting & it services pvt ltd., Bhubaneswar
-💼  Role         →  SDE-I (Backend)
+💼  Role         →  SD-S1 (Backend & DevOps)
 🎯  Target       →  SDE-II | DevOps Engineer | Cloud Engineer
 📦  Deployment   →  AWS Lambda · ECR · RDS · API Gateway
-🏗️  Currently    →  Preparing for DevOps through hands-on projects
-                     Linux · Docker · Kubernetes · Terraform
+🏗️  Currently    →  Linux · Docker · Kubernetes · Terraform
                      GitHub Actions · AWS · Ansible
 ```
 
